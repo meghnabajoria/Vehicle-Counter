@@ -4,7 +4,7 @@ import cvzone
 import math
 from sort import *
 
-cap = cv2.VideoCapture("../Yolo-models/cars.mp4")
+cap = cv2.VideoCapture("../Car-counter/cars.mp4")
 
 # cap.set(3,620)
 # cap.set(4,480)
