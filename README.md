@@ -9,6 +9,9 @@ The Vehicle Counting with YOLO Models using Pre-recorded Videos project holds si
 
 
 
-https://github.com/meghnabajoria/Vehicle-Counter/assets/50470784/4970b2c5-7fce-4da6-a4e9-4e5a706b47b9
+
+
+https://github.com/meghnabajoria/Vehicle-Counter/assets/50470784/f00b732a-0688-4500-8503-d8e393700ed3
+
 
 
